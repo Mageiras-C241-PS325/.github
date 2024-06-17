@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.jpeg" alt="Mageiras" width="300">
+  <img src="logo_app.png" alt="Mageiras" width="300">
 </div>
 
 # Mageiras - Created by C241-PS325 Capstone Project Bangkit Academy 2024 
