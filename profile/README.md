@@ -16,7 +16,7 @@ Mageiras is ....
 
 ## 🦾 This is Our Team
 
-So, these are the people behind the FurniScan app who give everything for this project.
+So, these are the people behind the Mageiras app who give everything for this project.
 
 | Learning Path                         | Bangkit ID    | GitHub Link                | LinkedIn Link                          |
 |------------------------------|---------------|-----------------------|-----------------------------------|
