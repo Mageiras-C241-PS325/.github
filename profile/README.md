@@ -25,7 +25,7 @@ So, these are the people behind the Mageiras app who give everything for this pr
 | Machine Learning             | M691D4KY2485   | [Nasya Fatika Augusta](link github) | [Nasya Fatika Augusta](link linkedin)      |
 | Cloud Computing    | C007D4KX0614   | [Radhiyan Muhammad Hisan](link github) | [Radhiyan Muhammad Hisan](link linkedin)      |
 | Cloud Computing      | C547D4NY1337   | [Ridwan Faisal](link github) | [Ridwan Faisal](link linkedin)      |
-| Mobile Development      | A007D4KX3900   | [Muhammad Reza Kurniawan](link github) | [Muhammad Reza Kurniawan](www.linkedin.com/in/m-reza-kurnia)      |
+| Mobile Development      | A007D4KX3900   | [Muhammad Reza Kurniawan](https://github.com/RezaConz) | [Muhammad Reza Kurniawan](www.linkedin.com/in/m-reza-kurnia)      |
 | Mobile Development | A121D4KY3911   | [Yosua Chrial Martono](link github) | [Mukhammad Hafiz Bima Ibrahim](link linkedin)      |
 
 ## 💻 Mageiras Team Jobdesk
